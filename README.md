@@ -181,7 +181,7 @@ Product delivery across four markets.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibuild-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibuild-ai&theme=github_dark" alt="Contribution activity"/>
 
 </div>
 
