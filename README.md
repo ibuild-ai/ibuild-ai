@@ -27,7 +27,7 @@ role:        Product Engineer & AI Systems Developer
 located_in:  Lagos, Nigeria
 experience:  Data science, AI engineering and product delivery (fintech, edtech, health)
 building:    Web, mobile, desktop, data and AI products, zero to launch
-background:  Computer Science + Medicine → Data Science & AI
+background:  Computer Science - Medicine → Data Science & AI
 ask_me:      Python, SQL, Power BI, RAG, product scoping, shipping with AI agents
 open_to:     AI engineering, data science and product engineering roles
 ```
